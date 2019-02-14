@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+
+body{
+  background: #EFEFEF;
+  color: #222;
+  clear: both;
+  display: table;
+}
+
+p {
+  font-family: Lato;
+  text-align: justify;
+}
